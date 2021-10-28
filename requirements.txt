@@ -1,0 +1,5 @@
+selenium==3.141.0
+webdriver-manager==3.5.1
+black==21.9b0
+isort==5.9.3
+flake8==4.0.1
